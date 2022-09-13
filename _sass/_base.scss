@@ -48,6 +48,7 @@ p {
   order: 2;
   background: $theme-color;
   color: #fff;
+  word-break: break-word;
   a {
     color: #fff;
   }
@@ -163,6 +164,7 @@ p {
   grid-column: span 7;
   background: #fff;
   padding: 60px;
+  word-break: break-word;
   .section-title {
     text-transform: uppercase;
     font-size: 20px;
@@ -196,7 +198,7 @@ p {
     font-weight: 500;
   }
   .time {
-    position: absolute;
+    position: static;
     right: 0;
     top: 0;
     color: $text-grey;
