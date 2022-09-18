@@ -27,25 +27,25 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: 
 
     languages:
       title: Idiomas
       info:
-        - idiom: Spanish
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: English
-          level: B2 Cambridge Assessment English
+        - idiom: Inglés
+          level: Nivel B2 Cambridge Assessment English
 
     interests:
-      title: Intereses
+      title: Campos de interés
       info:
-        - item: Powerlifting
-          link: https://strengthlevel.com/117545-gortenmorsa/exercises
+        - item: Ciberseguridad
+          link: 
 
-        - item: Lectura
-          link: https://www.goodreads.com/user/show/154032994-vinlorenz-mindaros
+        - item: Desarrollo Web
+          link: 
 
 
 # career-profile:
@@ -168,7 +168,7 @@ skills:
       - name: "Lenguajes de programación: ensamblador, C, C++, Java, JavaScript, Swift, MATLAB"
         level:
 
-      - name: "Tecnologías y herramientas de desarrollo web: HTML, CSS, jQuery, React, React Native, Bootstrap"
+      - name: "Tecnologías y herramientas de desarrollo web: HTML, CSS, SQL, jQuery, React, React Native, Bootstrap"
         level: 98%
 
       - name: "Servicios de gestión de proyectos: GitHub, Git"
